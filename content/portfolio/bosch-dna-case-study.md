@@ -1,9 +1,9 @@
 ---
-title: Event App Case Study
-date: 2020-08-12T18:07:16.000+06:00
-thumbnail: images/portfolio/portfolio-2.png
-service: Web Design, Branding
-client: Johnathon Doe
+title: Web App for Bosch DNA Hackathon 2016
+date: 2020-08-12T18:19:35.000+06:00
+thumbnail: images/portfolio/bosch-dna.png
+service: UX Design, UX Research
+client: Clayton Coco
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd

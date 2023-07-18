@@ -1,7 +1,7 @@
 ---
-title: UX Case Study for Agriculture App
+title: Smile eats Case Study for Food delivery App
 date: 2020-08-12T12:13:40+00:00
-thumbnail: images/portfolio/portfolio-4.png
+thumbnail: images/portfolio/smile-eats.jpg
 service: UX Design
 client: Jane Doe
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam

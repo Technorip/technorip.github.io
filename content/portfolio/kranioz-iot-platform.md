@@ -1,9 +1,9 @@
 ---
-title: Case Study One
-date: 2020-07-13T12:49:27.000+06:00
-thumbnail: images/portfolio/portfolio-1.png
-service: Development, UX Design
-client: Edward Furlong
+title: Kranioz IoT platform for Logistics
+date: 2020-08-12T18:07:16.000+06:00
+thumbnail: images/portfolio/kranioz-dashboard.png
+service: Web Design, Branding
+client: Johnathon Doe
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
