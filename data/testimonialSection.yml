@@ -2,18 +2,18 @@
 enable: true
 topTitle: Testimonials
 title: >
-  ## What People Say About Me?
+  ## What People Say About Us?
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: Rohan Kalani, Maker Village
+    comment: Technorip Innovations Pvt Ltd - Our trusted partner for web, cloud projects. Impressive work on Bosch DNA Challenge and Blockathon. Expertise in hardware, software, and a visionary approach. Reliable and professional.
+    time: April 20, 2017
     star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
-    star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
-    star: 3
+  - name: Siby Mathew, Pikkol
+    comment: Technorip Innovations Pvt Ltd played a vital role in our logistics space. Their hardware expertise, combined with their IoT knowledge, enabled us to successfully execute our pilot run and develop our hardware products.
+    time: Jan 16, 2018
+    star: 5
+  - name: CIO, Muthoot FinCorp
+    comment: Our partnership with Technorip Innovations has been transformative for our business. Their expertise helped us identify pitfalls in our system, and together, we developed an innovative hardware and IoT platform that provides direct business value.
+    time: Mar 08, 2019
+    star: 5
