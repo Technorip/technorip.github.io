@@ -1,0 +1,3 @@
+[submodule "themes/technorip"]
+	path = themes/technorip
+	url = https://github.com/Technorip/portio
