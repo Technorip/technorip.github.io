@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Hello, welcome to Technorip
+content: >
+  # Revolutionizing logistics and asset management 
+
+  At Technorip, we combine the power of Artificial Intelligence (AI), Data Science, and the Internet of Things (IoT)
+  to deliver intelligent and efficient solutions
+buttonName: Contact Us
+buttonURL: contact
+image: images/hero/kranioz-dash-board2.jpeg #actual: 617x826
+videoThumb: images/hero/technorip-news-thump.png
+videoURL: https://www.youtube.com/watch?v=j5BXCnGWjtc

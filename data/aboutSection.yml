@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: What we do 
+title: >
+  ## Leveraging AI and data-driven insights
+
+  we empower businesses to optimize their operations, enhance productivity, and unlock new opportunities for growth..
+content: >
+  ### Our fully in-house developed hardware platform.
+
+  Integrate seamlessly with AI and data science technologies.
+  These solutions cater to a wide range of applications in logistics and asset management.
+  By harnessing the power of IoT, we provide real-time monitoring, predictive analytics, and automation capabilities to streamline processes
+  improve decision-making, and drive operational excellence..
+button1Name: Contact Us
+button2Name: Download Report
+button1Target: contact
+button2Target: contact
+image: images/about/kranioz-dashboard.jpeg #561x826
