@@ -8,30 +8,22 @@ categories: blog
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+In January 2016, the Kerala Startup Mission (KSUM) and Sree Chitra Tirunal Institute for Medical Sciences & Technology (SCTIMST) joined forces to host the Health Hackathon 2016 at the technology business incubator for medical devices and biomaterial (TiMed) in Thiruvananthapuram. This two-day event aimed to ignite healthcare entrepreneurship in the state and encouraged startups and entrepreneurs to devise innovative solutions for medical challenges and create alternative medical devices.
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+The event garnered participation from some of the brightest minds in the healthcare industry, each vying for the coveted title of "Health Hackathon Champion." Among the contenders, Technorip Innovations Pvt Ltd stood out with their groundbreaking ideas and cutting-edge solutions. Their relentless pursuit of excellence and passion for creating transformative medical technologies caught the attention of the judges and fellow participants alike.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+What set Technorip apart was their innovative approach to solving real-world medical problems. Their team, led by talented professionals, worked tirelessly to address critical challenges identified by SCTIMST. The solutions presented by Technorip encompassed a broad spectrum of healthcare needs, ranging from an MRI-compatible infusion pump to a failure-free pulse oximeter for pediatric patients.
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+It was the unwavering commitment of Technorip's team that secured them the first-place honor at the Health Hackathon 2016. Their groundbreaking ideas and impressive demonstrations showcased their exceptional skills and knowledge in the medical technology domain.
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+The victory at the Health Hackathon marked a significant milestone for Technorip Innovations Pvt Ltd. It not only bolstered their reputation as a leading player in the healthcare innovation sector but also reaffirmed their dedication to creating solutions that have a positive impact on people's lives.
 
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
+At Technorip, we believe that events like the Health Hackathon provide a breeding ground for innovation and creativity. They offer a unique opportunity for like-minded individuals to collaborate, learn, and showcase their talents while contributing to the advancement of healthcare technologies.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+We extend our heartfelt gratitude to KSUM and SCTIMST for organizing this transformative event. Their commitment to fostering healthcare entrepreneurship has undeniably played a pivotal role in shaping a brighter and healthier future for Kerala and beyond.
 
-{{< /blogsection >}}
+As we continue our journey of innovation, Technorip remains steadfast in our mission to revolutionize the healthcare industry through cutting-edge technologies. Our victory at the Health Hackathon 2016 serves as a testament to the unwavering spirit of our team and the limitless possibilities that lie ahead.
 
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+Together, let us build a healthier tomorrow.
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
