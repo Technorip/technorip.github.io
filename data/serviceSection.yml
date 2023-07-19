@@ -8,38 +8,38 @@ title: >
   various fields by provided.
 service:
   - content: >
-      #### UI/UX Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
       #### Web Development 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
-  - content: >
-      #### Creative Design 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Cutting-edge web development capabilities, crafting user-centric and 
+      high-performance solutions for diverse business needs.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development
+      #### IoT 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+      IoT solutions with expertise in hardware integration, 
+      enabling businesses to harness data-driven insights for enhanced efficiency and innovation.
+    image: images/service/branding.svg
+  - content: >
+      #### DevOps
+
+      Excels in DevOps, streamlining development and operations,
+      to deliver reliable and agile solutions for seamless deployment.
+    image: images/service/creative.svg
+  - content: >
+      #### Hardware Design
+
+      We can deliver state-of-the-art products that cater to diverse industry 
+      requirements and technological advancements.
+    image: images/service/branding.svg
+  - content: >
+      #### Consultancy
+
+      top-notch consultancy services, providing expert guidance and strategic
+      insights to drive business growth and success.
+    image: images/service/ui-ux.svg
+  # - content: >
+  #     #### Web Development
+
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+  #     tempor invidunt ut labore et dolore magna aliquyam erat.
+  #   image: images/service/web.svg

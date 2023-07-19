@@ -4,55 +4,54 @@ topTitle: Our Timeline
 title: >
   ## Our Expertises
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  Technorip Innovations excels in hardware and IoT expertise, providing innovative solutions that drive business value and competitive advantage. 
 
 
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Awards
-tab2Name: Projects
+  Our exceptional technical knowledge and visionary approach make them a reliable partner for achieving success in any hardware and IoT-related project.
+tab1Name: Achievements
+tab2Name: Timeline
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### First Prize in the Health Hackathon 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
+      Enthusiastic participants, great mentors, expert faculty, resources of TIMED and KSUM, all converged
+      together to ideate on problems and potential solutions to unmet clinical needs at SCTIMST-TIMED, the
+      Technology Business Incubator of SCTIMST
+    time: 2016
+  # - content: >
+  #     #### Master in Arts
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2008-2010
+  # - content: >
+  #     #### Master in Arts
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2008-2010
+  # - content: >
+  #     #### Master in Arts
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2008-2010
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Moved to Maker Village Integrated Space 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+    time: 2019-Present
   - content: >
-      #### Aperture Science 
+      #### Maker Village 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+    time: 2016-2019
   - content: >
-      #### ACME Inc. 
+      #### Incubated at Startup Village 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
+    time: 2014-2016
+  # - content: >
+  #     #### Incubated at Startup Village
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+  #     Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  #   time: 2014
