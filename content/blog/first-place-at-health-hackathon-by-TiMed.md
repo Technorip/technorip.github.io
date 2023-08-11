@@ -1,5 +1,5 @@
 ---
-title: "Technorip won first piosition at health hackathon"
+title: "Technorip won first place at health hackathon"
 date: 2020-07-13T12:49:27+06:00
 featureImage: images/allpost/timed.png
 postImage: images/single-blog/technorip-timed.png
